@@ -1,5 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=dark&locale=en" alt="faurealexis" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=dark&locale=en&count_private=true" alt="faurealexis" />
 <h1 align="center">Hi 👋, I'm Alexis</h1>
+<img src="https://komarev.com/ghpvc/?username=faurealexis&label=Profile%20views&color=16c313&style=flat" alt="faurealexis" />
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
 - 🌱 I’m currently learning **Solidity**
