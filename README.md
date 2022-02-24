@@ -12,5 +12,3 @@
 <a href="https://twitter.com/_0xalexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xalexis" height="30" width="40" /></a>  
 </p>
 <img align="right" src="https://komarev.com/ghpvc/?username=faurealexis&label=Profile%20views&color=16c313&style=flat" alt="faurealexis" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faurealexis&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="faurealexis" /></p>
