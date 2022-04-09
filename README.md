@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **Solidity**
 - 🔭 I’m currently studying at **Epitech**
 
+🚨 I am currently looking for an internship in Web/Mobile development 🚨
+- Location : Bordeaux / Remote
+- Duration : 4 to 6 months (From July to December)
+📧 -> alexis.faure@epitech.eu
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_0xalexis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_0xalexis" height="30" width="40" /></a>  
