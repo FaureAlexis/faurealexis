@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=dark&locale=en&count_private=true" alt="faurealexis" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="faurealexis" />
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
 - 🌱 I’m currently learning **Solidity**
