@@ -4,8 +4,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="faurealexis" />
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
-- 🌱 I’m currently learning **Solidity**
-- 🔭 I’m currently studying at **Epitech**
+- 🌱 I’m currently learning **Swift & Typescript**
+- 🔭 I’m currently studying at **Epitech** and working at *GPaie* as **FullStack Web developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
