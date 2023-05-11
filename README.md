@@ -5,7 +5,7 @@
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
 - 🌱 I work intensively in **backend** development with **Typescript**
-- 🔭 I’m currently studying at **Epitech** and working as a *Freelance* in **Node.js backend developper**
+- 🔭 I’m currently studying at **Epitech** and working as a *Freelance* as a **Node.js backend developper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
