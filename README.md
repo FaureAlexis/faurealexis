@@ -4,7 +4,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=faurealexis&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="faurealexis" />
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
-- 🌱 I love to work in a **Typescript** environnement !
+- 🌱 I love to work in a **Typescript** environnement ! You can visit my portfolio <a href="https://alexisfaure.works/" target="_blank">here</a>
 - 🔭 I’m currently studying at **Epitech** and working as a *Freelance* as a **Node.js backend developper**
 - 🧩 I made some packages on npm (for fun and learning purposes), feel free to try it out <a href="https://www.npmjs.com/~6ela" target="blank">here</a>
 
