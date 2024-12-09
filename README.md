@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alexis</h1>
-<img align="right" src="https://readme-stats-ochre-delta.vercel.app/api?username=faurealexis&show_icons=true&theme=tokyonight&locale=en&count_private=true" alt="faurealexis" />
+<img align="right" src="https://readme-stats-ochre-delta.vercel.app/api?username=faurealexis&show_icons=true&theme=tokyonight&locale=en&count_private=true&" alt="faurealexis" />
 <h3 align="center">A passionate developer from Bordeaux, 🇫🇷.</h3>
 
 - 🌱 I love to work in a **Typescript** environnement ! You can visit my portfolio <a href="https://alexisfaure.works/" target="_blank">here</a>
