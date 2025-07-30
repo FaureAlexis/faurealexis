@@ -5,7 +5,7 @@
 - 💼 Working full-time as a **Fullstack Engineer - AI** at [Monsieur TSHIRT](https://www.monsieurtshirt.com) — building internal tools, e-commerce features, and infrastructure at scale.
 - 🧠 Freelancing part-time with [AdsOnTap](https://www.adsontap.io), creating custom platforms, task systems, and AI pipelines to streamline ad production workflows.
 - 🚀 Co-founder of [**Koloc**](https://koloc.app) — an AI-powered assistant for shared living, helping roommates manage expenses, chores, and calendars.
-- 🧪 Building [**Velian**](https://velian.io/?ref=gitbio) — a next-gen lab for AI-powered internal tools, automation & prototypes. Currently exploring productivity copilots and custom AI integrations.
+- 🧪 Building [**Velian**](https://velian.io/?ref=gitbio) — an AI powered n8n workflow builder
 - 🧰 Tech stack: `TypeScript`, `React Native`, `Node.js`, `GraphQL`, `LangChain`, `Python`, `PostgreSQL`, `AWS`, `Docker`, `Supabase`, `LLMs`.
 - 🌍 Mission: achieve financial independence by building **AI SaaS products** that solve real problems and generate recurring revenue.
 
